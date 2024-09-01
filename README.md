@@ -4,7 +4,7 @@
 
 **ML_DL_Assignment** - We get a dataset of men and women shoes and we need to clesify if the shoes is from the same pair or not while the data set is arreanged with laft and righr shoe.
 
-**ML_DL_Functions - 2 deep learning models, the first is **CNN** which is **Convolutional Neural Network** particularly well-suited for processing grid-like data, such as images, and the second is **CNN_Channel** which is in the context of CNNs, channels refer to the depth of the input data. Channels represent different aspects or features of the input data. 
+ML_DL_Functions - 2 deep learning models, the first is **CNN** which is **Convolutional Neural Network** particularly well-suited for processing grid-like data, such as images, and the second is **CNN_Channel** which is in the context of CNNs, channels refer to the depth of the input data. Channels represent different aspects or features of the input data. 
 
 **CNN Modes** - A Convolutional Neural Network (CNN) is composed of several layers, each serving a specific purpose in processing the input data:
 
